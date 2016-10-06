@@ -1,4 +1,6 @@
-steak,20
-lobster,30
-macaroni,8
-spaghetti,10
+10,10
+24,24
+55,55
+66,66
+77,77
+zzz,45
